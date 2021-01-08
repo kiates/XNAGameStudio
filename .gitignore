@@ -36,6 +36,7 @@ Ankh.NoLoad
 .vs/
 project.lock.json
 *.project.lock.json
+*.cachefile
 
 
 #Tooling
